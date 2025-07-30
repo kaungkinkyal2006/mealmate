@@ -1,0 +1,12 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="app_name">Meal Mate</string>
+    <string name="delete_recipe">Delete recipe</string>
+    <string name="delete_ingredient">Delete ingredient</string>
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="bought_from_here">Bought from here:</string>
+    <string name="copy">Copy</string>
+
+</resources>

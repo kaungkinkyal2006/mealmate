@@ -1,0 +1,18 @@
+<!-- res/layout/nav_header.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="bottom"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@color/primaryColor">
+
+    <TextView
+        android:id="@+id/tvUsernameHeader"
+        android:text="Welcome, User"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

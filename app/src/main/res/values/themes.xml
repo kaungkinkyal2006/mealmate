@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Unified app theme -->
+    <style name="Theme.MealMate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryColor</item> <!-- fallback same -->
+        <item name="colorSecondary">@color/primaryColor</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:navigationBarColor">@color/primaryColor</item>
+        <item name="android:statusBarColor">@color/primaryColor</item>
+    </style>
+</resources>
