@@ -115,23 +115,6 @@
                             android:textSize="16sp" />
                     </com.google.android.material.textfield.TextInputLayout>
 
-                    <!-- Geotagging Location -->
-                    <TextView
-                        android:id="@+id/tvLatitude"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Latitude: Unknown"
-                        android:textSize="16sp"
-                        android:layout_marginTop="24dp"
-                        android:textColor="@color/black" />
-
-                    <TextView
-                        android:id="@+id/tvLongitude"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Longitude: Unknown"
-                        android:textSize="16sp"
-                        android:textColor="@color/black" />
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
         </LinearLayout>
